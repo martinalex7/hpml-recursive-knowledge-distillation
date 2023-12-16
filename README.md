@@ -8,6 +8,10 @@
 
 This project explores the effectiveness of innovative distillation methodologies on BERT (Bidirectional Encoder Representations from Transformers) and ViT (Vision Transformer) models. The goal is to test and explore how successive knowledge distillation and multi-agent knowledge distillation can contribute to efficient model scaling while reducing computational resources.
 
+## Outline : 
+
+There are 2 notebooks including our experimentations, one for the BERT Experimentation and one for the ViT Experimentation.
+
 ## Results : 
 
 The project demonstrates that successive knowledge distillation is highly effective for both BERT and ViT models. This approach not only reduces model size but also ensures the retention of critical model knowledge.
