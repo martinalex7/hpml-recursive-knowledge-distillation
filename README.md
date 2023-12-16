@@ -2,7 +2,7 @@
 
 **Project** : Recursive Knowledge Distillation for BERT and ViT : Successive and Multi-Agent Approaches
 
-**Contributors** : Martin Alexandre / Elie Dufeu
+**Contributors** : Martin Alexandre (mpa2148) / Elie Dufeu (ed2994)
 
 ## Abstract : 
 
