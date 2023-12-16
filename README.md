@@ -11,6 +11,7 @@ This project explores the effectiveness of innovative distillation methodologies
 ## Outline : 
 
 There are 2 notebooks including our experimentations, one for the BERT Experimentation and one for the ViT Experimentation.
+The notebook just requires to input a personal HF token to push models to the hub and modify a couple of repo paths to load the models for successive methodologies.
 
 ## Results : 
 
